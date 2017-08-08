@@ -140,7 +140,7 @@
 .navbar.navbar-inverse .nav-collapse.in {
     transform: translate(0px,0px);
 }
-.panel-body{
+.login{
    border-radius: 3px;
    background: rgba(2, 159, 91, .7);
    border: 1px solid #ccc;
